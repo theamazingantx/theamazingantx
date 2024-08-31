@@ -2,7 +2,7 @@
 
 **`a plan`**
 <br>
-As a beginner developer, I aim to become a full stack developer, with the Reactjs, Astro, etc. framework
+As a beginner developer, I aim to become a full stack developer, with the framework Reactjs, Astro, Vuejs etc. 
 
 <!--- old code
 <a href="#" onclick="return false;">
