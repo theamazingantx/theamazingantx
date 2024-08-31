@@ -1,6 +1,7 @@
 # <img alt="Antx" width="40px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc4M2YyM2UwNDRmODQzMDZlOTQwZjNmZTcyZjk5YzdmZmY0MmE4YSZjdD1z/rtRflhLVzbNWU/giphy.gif"/> Antx
 
-***Plan***
+*Plan*
+<br>
 As a beginner developer, I aim to become a full stack developer, with the Reactjs, Astro, etc. framework
 
 <!--- old code
