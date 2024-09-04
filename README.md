@@ -12,4 +12,4 @@ As a beginner developer, I aim to become a full stack developer, with the framew
 antxism/antxism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src= "https://media.tenor.com/3pf3Np1ITUYAAAAi/duckduck.gif" />
+<img src= "https://tenor.com/id/view/duck-gif-6689560339757652623" />
