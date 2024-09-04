@@ -9,7 +9,6 @@ As a beginner developer, I aim to become a full stack developer, with the framew
 <img align="center" src="https://raw.githubusercontent.com/plsyouarenotalone/plsyouarenotalone/main/ss.webp" alt="antx" width="411" /> --->
 
 <!---
-antxism/antxism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+theamazingantx/theamazingantx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src= "https://tenor.com/id/view/duck-gif-6689560339757652623" />
