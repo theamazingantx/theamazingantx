@@ -1,8 +1,9 @@
 # <img alt="Antx" width="40px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc4M2YyM2UwNDRmODQzMDZlOTQwZjNmZTcyZjk5YzdmZmY0MmE4YSZjdD1z/rtRflhLVzbNWU/giphy.gif"/> Antx
 
+<!---
 **`a plan`**
 <br>
-As a beginner developer, I aim to become a full stack developer, with the framework Reactjs, Astro, Vuejs etc. 
+As a beginner developer, I aim to become a full stack developer, with the framework Reactjs, Astro, Vuejs etc. --->
 
 <!--- old code
 <a href="#" onclick="return false;">
