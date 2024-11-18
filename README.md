@@ -1,4 +1,10 @@
-## Hi there 👋
+## ntah apa ni💬
+
+- Saya sedang mempelajari Rust dan Python
+- Salah satu pengguna Linux (I used Elementary Btw)
+- Masih belajar
+
+Dah itu aja
 
 <!--
 **theamazingantx/theamazingantx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
