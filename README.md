@@ -1,7 +1,7 @@
-## ntah apa ni💬
-
-- Saya sedang mempelajari Rust dan Python
-- Salah satu pengguna Linux (I used Elementary Btw)
+## Halo Semua !!
+berikut hal hal tentang saya
+- Saya sedang mempelajari Godot Engine
+- Salah satu pengguna Linux (I used openSUSE btw)
 - Masih belajar
 
 Dah itu aja
