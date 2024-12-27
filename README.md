@@ -1,5 +1,6 @@
 ## Halo Semua !!
 berikut hal hal tentang saya
+- 16 tahun
 - Saya sedang mempelajari Godot Engine
 - Salah satu pengguna Linux (I used openSUSE btw)
 - Masih belajar
